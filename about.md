@@ -45,3 +45,4 @@ feel free to contact me.</p>
 	<li><a href="https://github.com/bradvision/IST687-IST719/blob/master/VisualisationPosterProjectcode.R">Kickstarter Analysis</a></li>
 	<li><a href="https://github.com/bradvision/TicketingAnalysisProj/blob/master/Code.R">Ticketing Analysis</a></li>
 </ul>
+document: assets/IST659_Project_Code.sql
