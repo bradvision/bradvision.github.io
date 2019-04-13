@@ -1,2 +1,2 @@
 # username.github.io
-Personal Page
+Personal Website
