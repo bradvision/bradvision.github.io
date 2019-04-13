@@ -34,15 +34,15 @@ permalink: /:title/
 #  categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
+linkedin: bradley-wuon-seok-choi/
 # facebook: cbwsk
 # twitter: bradvision02
 # google: mygoogle
+github: bradvision
 instagram: bradc0211
 # pinterest: mypinterest
-linkedin: bradley-wuon-seok-choi/
 # youtube: myyoutube
 # spotify: myspotify
-github: bradvision
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
