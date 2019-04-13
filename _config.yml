@@ -14,8 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://www.amazon.com/clouddrive/share/FZjrARx5fDlENyaIc5NGKskq86JuTky9lHxkOSMwF4k
-#https://www.dropbox.com/s/ioj2k0uaqdsbfgj/Bradley%20Choi_Resume.pdf?dl=0
+resume-url: https://www.dropbox.com/s/ioj2k0uaqdsbfgj/Bradley%20Choi_Resume.pdf?dl=0
 
 url: https://bradvision.github.io
 # your url: http://USERNAME.github.io
