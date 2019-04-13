@@ -40,6 +40,10 @@ feel free to contact me.</p>
 
 <ul>
 	<li><a href="https://github.com/bradvision/IST652_Scripting/blob/master/Pokemon/Pokemon.md">Pokémon Seaborn</a></li>
+	<li><a href="https://github.com/bradvision/TicketingAnalysisProj/blob/master/Code.R">Ticketing Analysis</a></li>
+	<li><a href="https://github.com/bradvision/TicketingAnalysisProj/blob/master/Code.R">Ticketing Analysis</a></li>
+
+	
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
