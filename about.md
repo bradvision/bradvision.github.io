@@ -43,6 +43,6 @@ feel free to contact me.</p>
 	<li><a href="https://github.com/bradvision/TicketingAnalysisProj/blob/master/Code.R">Ticketing Analysis</a></li>
 	<li><a href="https://github.com/bradvision/IST687-IST719/blob/master/IST687%20Project%20Code.R">NYC Hotels Analysis</a></li>
 	<li><a href="https://github.com/bradvision/IST687-IST719/blob/master/VisualisationPosterProjectcode.R">Kickstarter Analysis</a></li>
-	<li><a href="https://github.com/bradvision/TicketingAnalysisProj/blob/master/Code.R">Ticketing Analysis</a></li>
+	<li><a href="https://www.amazon.com/clouddrive/share/tV9Kj9iAUCXEs0CFiGCxDKsPokHEEpFyVbS17IK38tv">PublisherSQL</a></li>
 </ul>
 document: assets/IST659_Project_Code.sql
