@@ -1,6 +1,6 @@
 # main text of home
-name: Bradley Wuon Seok Choi
-bio: Information Management & Data Science student + Passion for photography and healthcare
+name: Bradley Choi
+bio: Aspiring professional in Data Science & Info Management 
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -34,15 +34,15 @@ permalink: /:title/
 #  categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
+linkedin: bradley-wuon-seok-choi/
+github: bradvision
+instagram: bradc0211
 # facebook: cbwsk
 # twitter: bradvision02
 # google: mygoogle
-instagram: bradc0211
 # pinterest: mypinterest
-linkedin: bradley-wuon-seok-choi/
 # youtube: myyoutube
 # spotify: myspotify
-github: bradvision
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -54,7 +54,7 @@ github: bradvision
 email: rexbradley.c@gmail.com
 
 authors:
-    Bradley Wuon Seok Choi:
+    Bradley W. S. Choi:
         name: Bradley W. S. Choi
         bio: Information Management & Data Science student
         external-image: false
@@ -71,11 +71,11 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+# projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true

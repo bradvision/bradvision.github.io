@@ -1,27 +1,15 @@
 ---
-layout: page
 title: Projects
+layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
-<p> These are a list of a few of my works.</p> 
+
+<p>These are a list of a few of my works.</p> 
  
+
 <h2> Works </h2>
 
-<ul class="list">
+<ul class="Works-list">
+ 
     <li><a href="https://github.com/bradvision/IST652_Scripting/blob/master/Pokemon/Pokemon.md">Pokémon Seaborn</a></li>
+
 </ul>
-    
-<section class="list">
-    {% for post in site.posts %}
-        {% if post.projects %}
-            <div class="item {% if post.star %}star{% endif %}">
-                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
-                    <h3 class="title">{{ post.title }}</h3>
-                </a>
-            </div>
-        {% endif %}
-    {% endfor %}
-</section>
-
-
