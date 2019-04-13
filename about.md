@@ -39,8 +39,9 @@ feel free to contact me.</p>
 <h2>Projects</h2>
 
 <ul>
-	<li><a href=https://github.com/bradvision/bradvision.github.io/blob/master/_posts/Pokemon/Pokemon.md">Pokémon Seaborn</a></li>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/bradvision/IST652_Scripting/blob/master/Pokemon/Pokemon.md">Pokémon Seaborn</a></li>
+	<li><a href="https://github.com/bradvision/TicketingAnalysisProj/blob/master/Code.R">Ticketing Analysis</a></li>
+	<li><a href="https://github.com/bradvision/IST687-IST719/blob/master/IST687%20Project%20Code.R">NYC Hotels Analysis</a></li>
+	<li><a href="https://github.com/bradvision/IST687-IST719/blob/master/VisualisationPosterProjectcode.R">Kickstarter Analysis</a></li>
+	<li><a href="https://github.com/bradvision/TicketingAnalysisProj/blob/master/Code.R">Ticketing Analysis</a></li>
 </ul>
