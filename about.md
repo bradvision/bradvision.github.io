@@ -4,42 +4,42 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hello, I'm Bradley. Currently, I am a M.S. canadidate in Information Management
+and in C.A.S. in Data Science at Syracuse University School of Information Studies.
+This platform is intended as where I can unload and share some of my works, ideas,
+and a bit about myself. If you have any comments or questions regarding anything 
+here feel free to contact me.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
+	<li>SQL-Oracle SQL Developer; Microsoft SQL Server</li>
+	<li>R</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Tableau</li>
+	<li>HTML</li>
+	<li>Powershell</li>
+	<li>COBOLT</li>
+	<li>Microsoft Office</li>
+	<li>Microsoft Project</li>
+	<li>Microsoft Access</li>
+	<li>Adobe Illustrator</li>
+	<li>Adobe Photoshop</li>
+	<li>Wordpress/Tumblr</li>
+</ul>
+
+<h2>Languages</h2>
+
+<ul class="language-list">
+	<li>English - Native</li>
+	<li>Korean - Native</li>
+	<li>Spanish - Rudimentary</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
+	<li><a href="https://github.com/bradvision/bradvision.github.io/blob/master/projects/Pokemon/Pokemon.md">Pokémon Seaborn</a></li>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
