@@ -39,7 +39,7 @@ feel free to contact me.</p>
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/bradvision/bradvision.github.io/blob/master/projects/Pokemon/Pokemon.md">Pokémon Seaborn</a></li>
+	<li><a href=https://github.com/bradvision/bradvision.github.io/blob/master/_posts/Pokemon/Pokemon.md">Pokémon Seaborn</a></li>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
