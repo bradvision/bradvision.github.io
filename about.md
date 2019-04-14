@@ -19,7 +19,7 @@ feel free to contact me.</p>
 	<li>Tableau</li>
 	<li>HTML</li>
 	<li>Powershell</li>
-	<li>COBOLT</li>
+	<li>COBOL</li>
 	<li>Microsoft Office</li>
 	<li>Microsoft Project</li>
 	<li>Microsoft Access</li>
