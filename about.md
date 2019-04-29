@@ -39,6 +39,7 @@ feel free to contact me.</p>
 <h2>Projects</h2>
 
 <ul>
+	<li><a href="https://github.com/bradvision/IST652_Scripting/blob/master/NHS%20Prescribing%20Analysis/NHS%20Practice%20Level%20Prescribing%20Analysis.md">NHS Practice Level Prescribing Analysis</a></li>
 	<li><a href="https://github.com/bradvision/IST652_Scripting/blob/master/Pokemon/Pokemon.md">Pokémon Seaborn</a></li>
 	<li><a href="https://github.com/bradvision/TicketingAnalysisProj/blob/master/Code.R">Ticketing Analysis</a></li>
 	<li><a href="https://github.com/bradvision/IST687-IST719/blob/master/IST687%20Project%20Code.R">NYC Hotels Analysis</a></li>
