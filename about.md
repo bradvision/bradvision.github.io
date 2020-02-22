@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hello, I'm Bradley Choi, This platform is intended to be where I can share 
+<p>Hello, I'm Bradley Choi. This platform is intended to be where I can share 
 some of my works, ideas, and a bit about myself. If you have any comments or 
 questions regarding anything here feel free to contact me.</p>
 
