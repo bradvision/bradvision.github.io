@@ -4,11 +4,9 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hello, I'm Bradley. Currently, I am a graduate of M.S. in Information Management
-and in C.A.S. in Data Science at Syracuse University School of Information Studies.
-This platform is intended to be where I can share some of my works, ideas, and a 
-bit about myself. If you have any comments or questions regarding anything here 
-feel free to contact me.</p>
+<p>Hello, I'm Bradley Choi, This platform is intended to be where I can share 
+some of my works, ideas, and a bit about myself. If you have any comments or 
+questions regarding anything here feel free to contact me.</p>
 
 <h2>Certification</h2>
 
