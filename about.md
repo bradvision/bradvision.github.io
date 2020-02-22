@@ -10,6 +10,12 @@ This platform is intended to be where I can share some of my works, ideas, and a
 bit about myself. If you have any comments or questions regarding anything here 
 feel free to contact me.</p>
 
+<h2>Certification</h2>
+
+<ul class="Certification-list">
+	<li>Certified Associate in Project Management</li>
+</ul>
+
 <h2>Skills</h2>
 
 <ul class="skill-list">
