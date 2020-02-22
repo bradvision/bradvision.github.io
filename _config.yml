@@ -1,6 +1,6 @@
 # main text of home
 name: Bradley Choi
-bio: Disciplined and insightful professional in intersection of innovation, strategy and business processes.
+bio: Disciplined and insightful professional in intersection of innovation, strategy and business processes
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -56,7 +56,7 @@ email: rexbradley.c@gmail.com
 authors:
     Bradley W. S. Choi:
         name: Bradley W. S. Choi
-        bio: Information Management & Data Science student
+        bio: Disciplined and insightful professional in intersection of innovation, strategy and business processes
         external-image: false
         picture: assets/images/profile.jpg
         twitter: bradvision02
