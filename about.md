@@ -11,7 +11,7 @@ questions regarding anything here feel free to contact me.</p>
 <h2>Certification</h2>
 
 <ul class="Certification-list">
-	<li>Certified Associate in Project Management, PMI Feb 2020 - Feb 2025</li>
+	<li>Certified Associate in Project Management, PMI Feb 2020</li>
 </ul>
 
 <h2>Skills</h2>
