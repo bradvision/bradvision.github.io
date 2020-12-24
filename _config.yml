@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://www.dropbox.com/s/dzetnhj595ng6mt/Bradley%20Choi_Resume.pdf?dl=0
+resume-url: https://www.dropbox.com/s/dj95sc8hhb3xdl5/Resume_Bradley%20Choi.pdf?dl=0
 
 url: https://bradvision.github.io
 # your url: http://USERNAME.github.io
@@ -51,7 +51,7 @@ github: bradvision
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: rexbradley.c@gmail.com
+email: bradvision@hotmail.com
 
 authors:
     Bradley W. S. Choi:
