@@ -40,15 +40,3 @@ questions regarding anything here feel free to contact me.</p>
 	<li>Spanish - Rudimentary</li>
 </ul>
 
-#<h2>Projects</h2>
-
-#<ul>
-#	<li><a href="https://github.com/bradvision/IST652_Scripting/blob/master/NHS%20Prescribing%20Analysis/NHS%20Practice%20Level%20Prescribing%20Analysis.md">NHS Practice Level Prescribing Analysis</a></li>
-#	<li><a href="https://github.com/bradvision/IST652_Scripting/blob/master/Pokemon/Pokemon.md">Pokémon Seaborn</a></li>
-#	<li><a href="https://github.com/bradvision/TicketingAnalysisProj/blob/master/Code.R">Ticketing Analysis</a></li>
-#	<li><a href="https://github.com/bradvision/IST687-IST719/blob/master/IST687%20Project%20Code.R">NYC Hotels Analysis</a></li>
-#	<li><a href="https://github.com/bradvision/IST687-IST719/blob/master/VisualisationPosterProjectcode.R">Kickstarter Analysis</a></li>
-#	<li><a href="https://www.dropbox.com/s/spl13bikrjjdugt/Kickstarter_Poster.pdf?dl=0">Kickstarter Poster</a></li>
-#	<li><a href="https://github.com/bradvision/Graduate-IST-Project-Codes/blob/master/IST659_Project_Code.sql">PublisherSQL</a></li>
-#</ul>
-
